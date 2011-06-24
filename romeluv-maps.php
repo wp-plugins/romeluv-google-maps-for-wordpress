@@ -3,7 +3,7 @@
 Plugin Name: RomeLuv Maps
 Plugin URI: http://www.romeluv.com/maps-plugin-testrun/
 Description:  Supercharge your posts with Google Maps! Places a Google Map inside every post you want just filling the Address field while editing a post. Generates a Global Map with all the posts,   in a standard WordPress Page via a simple shortcode: [GLOBALMAP] . Easy to hack for your custom Google Maps implementation
-Version: 1.0.1
+Version: 1.0.2
 Author: RomeLuv
 Author URI: http://www.romeluv.com
 License: GPL v2

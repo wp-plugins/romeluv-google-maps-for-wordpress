@@ -3,7 +3,7 @@ Contributors: romeluv
 Tags: maps, map, googlemap, google maps, map embed, stable, geoblog, geocode, geocoding, address
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Google Maps on your blog, the easy way!
 
@@ -57,4 +57,7 @@ just fill the address field in the post editing window
    
 = 1.0.1 =
 * Corrected author in plugin.
+
+= 1.0.2 =
+* Better documentation links.
       
